@@ -25,3 +25,8 @@ Extract, Transform, & Load with COVID-19 datasets.
 ## Setup
 
 ## Data Source
+Two data sets were sourced from cdc.gov and NYTimes (via Kaggle) to 
+illustrate the COVID-19 death rates across states and compare to 
+COVID-19 case numbers. This data can also be used to compare 
+COVID death rates against flu and pneumonia death rates by state or 
+country as a whole. 
