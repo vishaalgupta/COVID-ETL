@@ -30,7 +30,8 @@ We created three dataframes, one for each disease. For each dataset, we filtered
 
 **Our ERD**
 
-![Screen Shot 2022-05-26 at 7 26 20 PM](https://user-images.githubusercontent.com/67019334/170607696-67999d63-494c-47ad-b4f8-3f1262c414f1.png)
+![Screen Shot 2022-05-26 at 7 26 20 PM](https://user-images.githubusercontent.com/93561950/170611368-45a8de4a-00f0-4930-94b3-a2acc895aac3.png)
+
 
 ## Setup
 **Data Setup**
